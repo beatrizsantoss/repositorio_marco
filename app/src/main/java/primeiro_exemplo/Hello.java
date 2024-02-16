@@ -16,5 +16,14 @@ public class Hello {
         p1.idade = 17 ;
 
         System.out.println(p1.nome + ":" + p1.idade); 
+
+        Pessoa p2 = new Pessoa(); 
+        p1.nome = "Jose Felipe";
+
+        System.out.println(p2.nome + ":"); 
+        System.out.println(p1.nome + ":"); 
+
+
+
     } 
 }
