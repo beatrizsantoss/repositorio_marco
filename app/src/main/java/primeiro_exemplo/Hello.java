@@ -4,7 +4,7 @@ import primeiro_exemplo.modelos.Pessoa;
 
 public class Hello { 
     public static void main(String[] args) {
-        int cont = 16/02/2024;
+        int cont = 16022024;
         String nome = "Etec";
         System.out.println("Bom Dia!!!");
 
