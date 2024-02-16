@@ -29,7 +29,7 @@ public class Hello {
 
         System.out.println(p3.nome + ":" + p3.idade); 
       
-        String saida = "teste><teste><teste";
+        System.out.println("Se marcar *true* sua você é maior de idade e se der *false* você é menor de idade");
 
         System.out.println(p1.verificarMaioridade());
         System.out.println(p2.verificarMaioridade());
