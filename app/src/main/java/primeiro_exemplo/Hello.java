@@ -34,5 +34,5 @@ public class Hello {
         System.out.println(p1.verificarMaioridade());
         System.out.println(p2.verificarMaioridade());
         System.out.println(p3.verificarMaioridade());
-    } 
+    }
 }
