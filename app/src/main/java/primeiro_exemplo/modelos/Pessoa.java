@@ -5,7 +5,7 @@ public class Pessoa {
     public String nome;
     public int idade;
 
-  //Metodo 
+  //Método 
 public boolean verificarMaioridade() {
 return this.idade >= 18;
  }
