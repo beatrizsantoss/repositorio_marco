@@ -24,7 +24,5 @@ public class Hello {
         System.out.println(p2.nome + ":" + p2.idade); 
         System.out.println(p1.nome + ":"); 
 
-
-
     } 
 }
