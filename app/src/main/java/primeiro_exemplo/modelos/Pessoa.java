@@ -1,6 +1,6 @@
 package primeiro_exemplo.modelos;
 
-public class Pessoas {
+public class Pessoa {
     // Atributos
     public String nome;
     public int idade;

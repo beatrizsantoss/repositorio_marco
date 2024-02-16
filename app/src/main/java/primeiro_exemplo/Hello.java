@@ -1,6 +1,6 @@
 package primeiro_exemplo;
 
-import primeiro_exemplo.modelos.Pessoas;
+import primeiro_exemplo.modelos.Pessoa;
 
 public class Hello {
     public static void main(String[] args) {
@@ -10,6 +10,6 @@ public class Hello {
 
         System.out.println(cont + " : " + nome);
         
-        Pessoas p1 = new Pessoas(); 
+        Pessoa p1 = new Pessoa(); 
     }
 }
