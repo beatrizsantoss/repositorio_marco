@@ -14,5 +14,7 @@ public class Hello {
 
         p1.nome = "Beatriz";
         p1.idade = 17 ;
-    }
+
+        System.out.println(p1.nome + ":" + p1.idade); 
+    } 
 }
