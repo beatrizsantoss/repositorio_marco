@@ -18,7 +18,8 @@ public class Hello {
         System.out.println(p1.nome + ":" + p1.idade); 
 
         Pessoa p2 = new Pessoa(); 
-        p1.nome = "Jose Felipe";
+        p2.nome = "Jose Felipe";
+        p2.idade = 21 ;
 
         System.out.println(p2.nome + ":"); 
         System.out.println(p1.nome + ":"); 
