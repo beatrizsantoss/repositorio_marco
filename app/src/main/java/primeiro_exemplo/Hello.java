@@ -21,7 +21,7 @@ public class Hello {
         p2.nome = "Jose Felipe";
         p2.idade = 21 ;
 
-        System.out.println(p2.nome + ":"); 
+        System.out.println(p2.nome + ":" + p2.idade); 
         System.out.println(p1.nome + ":"); 
 
 
