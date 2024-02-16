@@ -23,6 +23,12 @@ public class Hello {
 
         System.out.println(p2.nome + ":" + p2.idade); 
       
+        Pessoa p3 = new Pessoa();
+        p3.nome = "Rafaela";
+        p3.idade = 10;
 
+        System.out.println(p1.verificarMaioridade());
+        System.out.println(p2.verificarMaioridade());
+        System.out.println(p3.verificarMaioridade());
     } 
 }
