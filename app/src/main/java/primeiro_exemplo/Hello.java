@@ -4,9 +4,9 @@ import primeiro_exemplo.modelos.Pessoa;
 
 public class Hello { 
     public static void main(String[] args) {
-        int cont = 10;
-        String nome = "Marco";
-        System.out.println("Olá Mundo!!!");
+        int cont = 16/02/2024;
+        String nome = "Etec";
+        System.out.println("Bom Dia!!!");
 
         System.out.println(cont + " : " + nome);
         
