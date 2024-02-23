@@ -2,8 +2,8 @@ package primeiro_exemplo.modelos;
 
 public class Pessoa {
     // Atributos
-    public String nome;
-    public int idade;
+    private String nome;
+    private int idade;
 
   //Método 
 public boolean verificarMaioridade() {
