@@ -9,5 +9,7 @@ public class Pessoa {
 public boolean verificarMaioridade() {
 return this.idade >= 18;
  }
-
+  public void setNome (String nome) {
+   this.nome = nome;
+  } 
 }
